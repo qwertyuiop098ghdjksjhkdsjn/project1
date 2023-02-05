@@ -59,7 +59,7 @@ body {
     }
     
     .hero {
-        background-image: url("../image/image\ 4.3.jpg");
+        background-image: url("../image/image\ 4.3.svg");
         background-size: cover;
         height: 707px;
         padding-top: 194px;
@@ -325,8 +325,7 @@ hr {
 
 .videoblack {
     width: 817px;
-    height: 434px; 
-    background-color: rgba(37, 245, 0, 0.1); 
+    height: 434px;
     margin-left: 311px; 
     position: relative;
     top: -440px;
